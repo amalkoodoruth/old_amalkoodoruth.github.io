@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB on Amal Koodoruth</title>
+    <link>https://amalkoodoruth.github.io/tags/matlab/</link>
+    <description>Recent content in MATLAB on Amal Koodoruth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Nov 2019 10:58:08 -0400</lastBuildDate><atom:link href="https://amalkoodoruth.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Math score predictor</title>
+      <link>https://amalkoodoruth.github.io/post/project-1/</link>
+      <pubDate>Fri, 15 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://amalkoodoruth.github.io/post/project-1/</guid>
+      <description>Linear Regression with Mean Absolute Error of about 19% Features used include age, sex, ethnicity, amongst others Model coded from scratch on MATLAB  The github repository is available here.</description>
+    </item>
+    
+  </channel>
+</rss>
