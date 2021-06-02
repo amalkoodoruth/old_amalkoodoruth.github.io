@@ -13,7 +13,7 @@
       <pubDate>Mon, 07 Dec 2020 11:13:32 -0400</pubDate>
       
       <guid>https://amalkoodoruth.github.io/post/project-3/</guid>
-      <description> Researched and investigated the performance of ResNets, AlexNet and VGG16 (∼ 95% accuracy) models on a modified Fashion MNIST dataset. Model trained with 48000 images on Python us- ing PyTorch, Pandas, Matplotlib &amp;amp; NumPy.  The paper is available here.
+      <description> Researched and investigated the performance of ResNets, AlexNet and VGG16 (∼ 95% accuracy) models on a modified Fashion MNIST dataset. Model trained with 48000 images on Python using PyTorch, Pandas, Matplotlib &amp;amp; NumPy.  The paper is available here.
  </description>
     </item>
     
@@ -33,7 +33,7 @@
       <pubDate>Fri, 15 Nov 2019 10:58:08 -0400</pubDate>
       
       <guid>https://amalkoodoruth.github.io/post/project-1/</guid>
-      <description>Linear Regression with Mean Absolute Error of about 19% Features used include age, sex, ethnicity, amongst others Model coded from scratch on MATLAB  The github repository is available here.</description>
+      <description>Linear Regression with Mean Absolute Error of about 19% Features used include age, sex, ethnicity, amongst others Model coded from scratch on MATLAB.  The github repository is available here.</description>
     </item>
     
     <item>
