@@ -59,6 +59,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://amalkoodoruth.github.io/experience/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://amalkoodoruth.github.io/resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
